@@ -1,0 +1,15 @@
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.csproj.AssemblyReference.cache
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.GeneratedMSBuildEditorConfig.editorconfig
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.AssemblyInfoInputs.cache
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.AssemblyInfo.cs
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.csproj.CoreCompileInputs.cache
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\bin\Debug\net6.0\Exampelle004_Dif.exe
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\bin\Debug\net6.0\Exampelle004_Dif.deps.json
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\bin\Debug\net6.0\Exampelle004_Dif.runtimeconfig.json
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\bin\Debug\net6.0\Exampelle004_Dif.dll
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\bin\Debug\net6.0\Exampelle004_Dif.pdb
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.dll
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\refint\Exampelle004_Dif.dll
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.pdb
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\Exampelle004_Dif.genruntimeconfig.cache
+M:\Павел рабочий стол\Examples_base\Examples\Exampelle004_Dif\obj\Debug\net6.0\ref\Exampelle004_Dif.dll
