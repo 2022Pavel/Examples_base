@@ -1,0 +1,15 @@
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\bin\Debug\net6.0\Example002_ Hello.exe
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\bin\Debug\net6.0\Example002_ Hello.deps.json
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\bin\Debug\net6.0\Example002_ Hello.runtimeconfig.json
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\bin\Debug\net6.0\Example002_ Hello.dll
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\bin\Debug\net6.0\Example002_ Hello.pdb
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.csproj.AssemblyReference.cache
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.GeneratedMSBuildEditorConfig.editorconfig
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.AssemblyInfoInputs.cache
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.AssemblyInfo.cs
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.csproj.CoreCompileInputs.cache
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.dll
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\refint\Example002_ Hello.dll
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.pdb
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\Example002_ Hello.genruntimeconfig.cache
+M:\Павел рабочий стол\Examples_base\Examples\Example002_ Hello\obj\Debug\net6.0\ref\Example002_ Hello.dll
